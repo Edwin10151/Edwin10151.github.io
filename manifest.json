@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "name": "edwin_Ting",
     "short_name": "edwin_ting",
@@ -22,28 +21,3 @@
         }
     ]
 }
-=======
-{
-    "name": "edwin_Ting",
-    "short_name": "edwin_ting",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#000000",
-    "theme_color": "#0175C2",
-    "description": "Live portfolio using flutter 2.0",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
-}
->>>>>>> 6eb55e44bb0678dc97c053d32a8793a0b2aefbb5
